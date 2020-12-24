@@ -1,0 +1,22 @@
+{
+  "name": "dwproj",
+  "version": "0.1.0",
+  "summary": "A short description of dwproj.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wadingwei@qq.com/dwproj",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wadingwei@qq.com": "wadingwei@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wadingwei@qq.com/dwproj.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "dwproj/Classes/**/*"
+}
